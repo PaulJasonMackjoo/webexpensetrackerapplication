@@ -1,7 +1,7 @@
 :root {
     --box-shadow: 0px 1px 4px 1px rgba(199,199,199,1);
     --income: green;
-    --expense: red;
+    --expense: #9A2A2A;
 }
 
 html, body {
